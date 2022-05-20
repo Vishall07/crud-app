@@ -1,1 +1,1 @@
-crud app deploy
+cd crud app deploy
